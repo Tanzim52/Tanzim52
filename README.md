@@ -4,8 +4,10 @@
 
 ###
 
-<h2 align="left">Md. Mahin Jawad Tanzim</h2>
+<div>
+  <h2 align="left">Md. Mahin Jawad Tanzim</h2>
 <h3 align="left">MERN Stack Developer</h3>
+</div>
 
 ###
 
