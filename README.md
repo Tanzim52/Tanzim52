@@ -5,7 +5,7 @@
 ###
 
 <div>
-  <h2 align="left">Md. Mahin Jawad Tanzim</br>MERN Stack Developer</h2>
+  <h2 align="left">Md. Mahin Jawad Tanzim</br><span><h3>MERN Stack Developer</h3>h3></span></h2>
   
 </div>
 
