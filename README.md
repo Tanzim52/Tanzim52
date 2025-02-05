@@ -145,6 +145,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Tanzim52/Tanzim52/output/snake.svg" alt="Snake animation" />
+
 
 ###
