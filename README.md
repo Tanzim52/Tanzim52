@@ -23,9 +23,11 @@
 
 ###
 
-- 🚀 Building **CritiQ** – A service review platform with authentication & CRUD  
-- 🌍 Developing **Eco-Adventure Experiences** – An eco-friendly travel blog  
-- 🎨 Enhancing **Orchid** – A stylish project with authentication & animations  
+- 💥 Discovering Next.js.
+- 🔎 Enhanced **MEarn** - A micro earning platform with funtional admin, user, worker panel
+- 🚀 Built **CritiQ** – A service review platform with authentication & CRUD  
+- 🌍 Developed **Eco-Adventure Experiences** – An eco-friendly travel blog  
+- 🎨 Enhanced **Orchid** – A stylish project with authentication & animations  
 - 🎮 Gaming whenever I get the chance – because I'm a little bit of a game rat!  
 
 ###
