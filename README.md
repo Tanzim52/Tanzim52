@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="250" src="https://i.ibb.co.com/RGYLKjmR/md-mahin-jawad-tanzim.png"  />
+  <img height="250" src="https://i.ibb.co.com/bgGc5WPq/md-mahin-jawad-tanzim-1.png"  />
 </div>
 
 ###
