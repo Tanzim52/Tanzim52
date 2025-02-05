@@ -18,20 +18,23 @@
 <p align="center">This is Tanzim here, a MERN Stack Developer, an Undergrad. CSE student studying in Netrokona University, who loves building cool web apps and exploring new tech. When I'm not coding, you'll probably find me deep in a game, grinding levels or chasing high scores. Always up for learning, creating, and a good gaming session!</p>
 
 ###
-
+</br>
 <h3 align="left">Current Activities :</h3>
 
 ###
 
-<p align="left">- 💥 Exploring Next.js<br>- 🚀 Built **CritiQ** – A service review platform with authentication & CRUD  <br>- 🌍 Developed **Eco-Adventure Experiences** – An eco-friendly travel blog  <br>- 🎨 Enhancing **Orchid** – A stylish project with authentication & animations  <br>- 🎮 Gaming whenever I get the chance – because I'm a little bit of a game rat!</p>
+- 🚀 Building **CritiQ** – A service review platform with authentication & CRUD  
+- 🌍 Developing **Eco-Adventure Experiences** – An eco-friendly travel blog  
+- 🎨 Enhancing **Orchid** – A stylish project with authentication & animations  
+- 🎮 Gaming whenever I get the chance – because I'm a little bit of a game rat!  
+
+###
+</br>
+<h2 align="center">Skills</h2>
 
 ###
 
-<h3 align="center">Skills</h3>
-
-###
-
-<h4 align="center">**Frontend**</h4>
+<h3 align="center">**Frontend**</h3>
 
 ###
 
@@ -52,8 +55,8 @@
 </div>
 
 ###
-
-<h4 align="center">**Backend**</h4>
+</br>
+<h3 align="center">**Backend**</h3>
 
 ###
 
@@ -66,8 +69,8 @@
 </div>
 
 ###
-
-<h4 align="center">**Tools**</h4>
+</br>
+<h3 align="center">**Tools**</h3>
 
 ###
 
@@ -94,8 +97,8 @@
 </div>
 
 ###
-
-<p align="center">**Problem Solving**</p>
+</br>
+<h3 align="center">**Problem Solving**</h3>
 
 ###
 
@@ -109,7 +112,7 @@
 </div>
 
 ###
-
+</br>
 <h3 align="center">Social Links</h3>
 
 ###
@@ -133,7 +136,7 @@
 </div>
 
 ###
-
+</br>
 <h3 align="center">Stats & Streaks</h3>
 
 ###
