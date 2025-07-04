@@ -1,159 +1,92 @@
 <div align="center">
-  <img height="250" src="https://i.ibb.co.com/bgGc5WPq/md-mahin-jawad-tanzim-1.png"  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hey+there%2C+I'm+Tanzim+%F0%9F%91%8B;MERN+Stack+Developer;Gamer+%26+Tech+Enthusiast" alt="Typing animation" />
 </div>
 
 ###
 
-<div>
-  <h2 align="left">Md. Mahin Jawad Tanzim</br>MERN Stack Developer</h2>
+<div align="center">
+  <img height="250" src="https://i.ibb.co.com/bgGc5WPq/md-mahin-jawad-tanzim-1.png" alt="Tanzim's Profile" />
+</div>
+
+###
+
+<h2 align="center">⚡ About Me</h2>
+
+<p align="center">
+  A passionate <strong>MERN Stack Developer</strong> and <strong>Undergrad CSE Student</strong> from Bangladesh. <br/>
+  I love building web apps, exploring new tech, and gaming in my free time. <br/>
+  Currently diving into <strong>Next.js</strong> and enhancing my problem-solving skills.
+</p>
+
+###
+
+<h2 align="center">🚀 Current Projects</h2>
+
+<div align="center">
+  
+| Project | Description | Tech Stack |
+|---------|------------|------------|
+| **[MEarn](https://github.com/Tanzim52/MEarn)** | Micro-earning platform with Admin/User/Worker panels | MERN, Firebase |
+| **[CritiQ](https://github.com/Tanzim52/CritiQ)** | Service review platform with Auth & CRUD | MERN, Tailwind |
+| **[Eco-Adventure](https://github.com/Tanzim52/Eco-Adventure)** | Eco-friendly travel blog | React, Node, MongoDB |
   
 </div>
 
 ###
 
-<h3 align="center">Hey there,</h3>
-
-###
-
-<p align="center">This is Tanzim here, a MERN Stack Developer, an Undergrad. CSE student studying in Netrokona University, who loves building cool web apps and exploring new tech. When I'm not coding, you'll probably find me deep in a game, grinding levels or chasing high scores. Always up for learning, creating, and a good gaming session!</p>
-
-###
-</br>
-<h3 align="left">Current Activities :</h3>
-
-###
-
-- 💥 Discovering Next.js.
-- 🔎 Enhanced **MEarn** - A micro earning platform with funtional admin, user, worker panel
-- 🚀 Built **CritiQ** – A service review platform with authentication & CRUD  
-- 🌍 Developed **Eco-Adventure Experiences** – An eco-friendly travel blog  
-- 🎨 Enhanced **Orchid** – A stylish project with authentication & animations  
-- 🎮 Gaming whenever I get the chance – because I'm a little bit of a game rat!  
-
-###
-</br>
-<h2 align="center">Skills</h2>
-
-###
-
-<h3 align="center">**Frontend**</h3>
-
-###
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mui/007FFF" height="40" alt="materialui logo"  />
+  
+### **Frontend**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white)
+
+### **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+### **Tools**
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
 </div>
 
 ###
-</br>
-<h3 align="center">**Backend**</h3>
 
-###
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
+  
+![Tanzim's Streak](https://streak-stats.demolab.com?user=Tanzim52&theme=nightowl&hide_border=true&border_radius=6&mode=weekly)
+  
+![Tanzim's Stats](https://github-readme-stats.vercel.app/api?username=Tanzim52&show_icons=true&theme=nightowl&hide_border=true&count_private=true&include_all_commits=true)
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanzim52&layout=compact&theme=nightowl&hide_border=true)
+
 </div>
 
 ###
-</br>
-<h3 align="center">**Tools**</h3>
 
-###
+<h2 align="center">📫 Let's Connect!</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="40" alt="netlify logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="40" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/npm/CB3837" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="40" alt="googlecloud logo"  />
-</div>
-
-###
-</br>
-<h3 align="center">**Problem Solving**</h3>
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahin1575@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanzim52)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/mjTanzim)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+8801744842814)
   
 </div>
-
-###
-</br>
-<h3 align="center">Social Links</h3>
-
-###
-
-<div align="center">
-  <a href="mailto:mahin1575@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/tanzim52/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/mjTanzim" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://wa.me/+8801744842814" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
-  
-</div>
-
-###
-</br>
-<h3 align="center">Stats & Streaks</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Tanzim52&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanzim52&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ocean_dark&locale=en&hide_border=false&order=1&custom_title=Tanzim's%20Stat" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tanzim52&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-
 
 ###
